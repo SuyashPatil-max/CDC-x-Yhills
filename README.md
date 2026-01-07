@@ -4,7 +4,7 @@ This project uses a hybrid workflow involving VS Code for data acquisition and G
 VS Code is used for satellite image fetching due to better local file handling.
 Google Colab is used for preprocessing and model training to leverage cloud compute and easier dependency management.
 Ensure you have access to Google Drive, as intermediate datasets and generated files are shared through Drive.
-google drive = https://drive.google.com/drive/folders/1peownNfh-7H4wy8KXhhR8rY72TeqJLfl
+google drive = https://drive.google.com/drive/folders/1peownNfh-7H4wy8KXhhR8rY72TeqJLfl </p>
 or a google drive folder is uploaded
 
 ## Project Execution Pipeline
