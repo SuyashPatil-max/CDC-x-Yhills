@@ -54,7 +54,7 @@ google drive = https://drive.google.com/drive/folders/1peownNfh-7H4wy8KXhhR8rY72
        Evaluates model performance on training and test sets
        Generates predictions for the test dataset
 
-6: Submission Generation :
+ 6.  Submission Generation :
       The final cell in model_training.ipynb generates the submission.csv file.
       Download this file directly from Colab.
       This file contains the predicted house prices and serves as the final output of the project.
